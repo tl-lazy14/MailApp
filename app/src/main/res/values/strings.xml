@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GmailApp</string>
+    <string name="navigate_icon">navigate_icon</string>
+    <string name="inbox">Inbox</string>
+    <string name="search_icon" />
+    <string name="star_icon" />
+</resources>
